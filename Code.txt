@@ -1,0 +1,6 @@
+using System;
+
+class Sourse
+{
+	Console.WriteLine("Люблю бархотную бумагу, из нее можно сделать много интересных вещей");
+}
